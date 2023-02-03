@@ -1,4 +1,4 @@
-[![Tests](https://github.com/STFC/ckanext-falkor/workflows/Tests/badge.svg?branch=main)](https://github.com/STFC/ckanext-falkor/actions)
+[![Tests](https://github.com/SmdhMdep/ckanext-falkor/actions/workflows/test.yml/badge.svg)](https://github.com/SmdhMdep/ckanext-falkor/actions/workflows/test.yml)
 
 # ckanext-falkor
 
